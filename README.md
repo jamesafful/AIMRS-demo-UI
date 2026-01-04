@@ -22,6 +22,14 @@ This repo is **front-end only** (no backend, no real data, no PHI). It showcases
 - **Tailwind CSS**
 - **React Router**
 
+
+---
+## Live Demo
+https://jamesafful.github.io/AIMRS-demo-UI/
+
+## Quick Demo
+![AIMRS Demo](demo_snapshots/aimrs-demo.gif)
+
 ---
 
 ## Getting Started (Local or Codespaces)
@@ -43,7 +51,4 @@ npm run preview -- --host 0.0.0.0 --port 4173
 
 ![Dashboard](demo_snapshots/AIMRS-1.png)
 ![Patients](demo_snapshots/AIMRS-2.png)
-![Patient Chart](demo_snapshots/AIMRS-3.png)
-![Visit Note](demo_snapshots/AIMRS-4.png)
-![Billing](demo_snapshots/AIMRS-5.png)
-![Prescriptions](demo_snapshots/AIMRS-6.png)
+![Patient Chart](demo_snapshots/AIMRS-3.png) 
