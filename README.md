@@ -2,6 +2,9 @@
 
 A clickable **UI/UX prototype** for **AIMRS (Apex Integrated Medical Records System)** — designed for proposal demos and stakeholder walkthroughs.
 
+## Why this exists
+Most small practices rely on Word documents and scattered folders. AIMRS demonstrates how a modern intranet-first system can unify scheduling, notes, prescriptions, and billing into one consistent workflow—reducing admin overhead and improving documentation completeness.
+
 This repo is **front-end only** (no backend, no real data, no PHI). It showcases the intended navigation and key workflows for:
 - Dashboard
 - Patients → Patient Chart
