@@ -37,3 +37,9 @@ npm run dev -- --host 0.0.0.0 --port 5173
 npm run build
 npm run preview -- --host 0.0.0.0 --port 4173
 
+![alt text](demo_snapshots/AIMRS-1.png)
+![alt text](demo_snapshots/AIMRS-2.png)
+![alt text](demo_snapshots/AIMRS-3.png)
+![alt text](demo_snapshots/AIMRS-4.png)
+![alt text](demo_snapshots/AIMRS-5.png)
+![alt text](demo_snapshots/AIMRS-6.png)
